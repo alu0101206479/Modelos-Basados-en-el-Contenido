@@ -40,4 +40,4 @@ Parametros de entrada:
 
 Salida:
   
-[![Video Salida](./Ejemplos/Salidas/documents-01.mp4)](./Ejemplos/Salidas/documents-01.mp4)
+[![Video Salida](Ejemplos/Salidas/documents-01.mp4)](Ejemplos/Salidas/documents-01.mp4)
