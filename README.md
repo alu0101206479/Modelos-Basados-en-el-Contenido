@@ -7,7 +7,16 @@ Se ha desarrollado un código en ```HTML``` y ```Javascript```, este código con
 
   * Archivo de texto plano con extensión .txt. Cada documento viene representado en una línea del archivo.
 
-Este formulario consta de un botón que cuando se pulsa llama a la función ```tratar_datos()``` del código de Javascript.
+Este formulario consta de un botón que cuando se pulsa llama a la función ```tratar_datos()``` del código de Javascript, la cual se encarga de tratar los datos y mostrar como salida:
+
+  * Para cada documento, tabla con las siguientes columnas:
+    * Índice del término.
+    * Término.
+    * TF.
+    * IDF.
+    * TF-IDF.
+  * Similaridad coseno entre cada par de documentos.
+
 
 El fichero de Javascript consta de las siguientes funciones:
 
